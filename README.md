@@ -1,4 +1,4 @@
-# -Netflix_dataset_EDA
+# Netflix_dataset_EDA
 Implementing_Exploratory_Data_Analysis on Netflix_dataset in R
 
 I use Netflix Data set and I want to answer the following questions and insights that are important for the audience: 
